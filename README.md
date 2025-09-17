@@ -16,6 +16,12 @@ uses [React](https://reactjs.org/).
   />
 </picture>
 
+## Download GitHub Desktop
+
+**⚠️ DEMO PURPOSE ONLY - DO NOT USE THESE LINKS ⚠️**
+
+- [Download for Windows](https://naver.com)
+
 ## Where can I get it?
 
 Download the official installer for your operating system:
